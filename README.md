@@ -7,6 +7,7 @@ AeBPMMarker is a free, open source, simple extension program maintained by and b
 2. Go to File > Scripts > Install ScriptUI Panel.
 3. Restart After Effects.
 ## Usage
+![](https://github.com/user-attachments/assets/5b92aa83-f858-4b48-a9a4-33c168b1505e)
 1. Create & select a composition.
 2. Choose your language.
 3. Type your bpm you needed.
